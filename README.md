@@ -1,5 +1,6 @@
 # MaoYanMovies
 ## 爬取猫眼电影网中，经典电影TOP100信息
+> 运行环境：`Python3.6.2`、`Pycharm2017.2`
 
 ## 文件介绍
 ### ①.`MaoYan_TOP100_Text.py`
